@@ -215,5 +215,38 @@
       "userId": 1,
       "likes": 27
     }
-  ]
+  ],
+  "form": {
+    "name": "My name form",
+    "welcome": {
+      "id": 0,
+      "type": "welcome",
+      "text": "Welcome to quiz",
+      "subtext": "Complete and receive our recommendations",
+      "button": "GO !",
+      "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png"
+    },
+    "slides": [
+      {
+        "id": 1,
+        "type": "text",
+        "answer": "what's your name ?",
+        "subtext": ""
+      },
+      {
+        "id": 2,
+        "type": "options",
+        "answer": "What do you doing ?",
+        "subtext": "Tell us about your occupation",
+        "options": [
+          {
+            "text": "Work"
+          },
+          {
+            "text": "study"
+          }
+        ]
+      }
+    ]
+  }
 }
