@@ -1,3 +1,4 @@
+/* https://practices-react-entornointeractivo.vercel.app/graphql */
 import React, { useState } from 'react'
 import { Builder } from '../components/builder'
 import { ListSlideResume } from '../components/ListSlide'
